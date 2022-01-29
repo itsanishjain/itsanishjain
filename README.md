@@ -7,4 +7,4 @@
 - 📫 How to reach me: twitter
 - ⚡ Fun fact: I used to be a very dum student 
 
-![https://twitter.com/itsanishjain/header_photo]
+![Ansih jain](https://twitter.com/itsanishjain/header_photo)
