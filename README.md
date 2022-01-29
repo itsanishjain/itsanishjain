@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Ansih jain](https://i.ibb.co/SrcznGz/Happiness-Cultivate-Twitter-Header.png)
+
 
 - 🔭 I’m currently working on blockchain
 - 🌱 I’m currently learning Solidity and Dapps
@@ -7,4 +9,3 @@
 - 📫 How to reach me: twitter
 - ⚡ Fun fact: I used to be a very dum student 
 
-![Ansih jain](https://twitter.com/itsanishjain/header_photo)
