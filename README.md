@@ -7,8 +7,6 @@
 - 👯 I’m looking to collaborate on WEb3
 - 💬 Ask me about about web3, JS, and Python
 - 📫 How to reach me: twitter
-- ⚡ Fun fact: I used to be a very dum student 
-
 
 ## 📈 GitHub Stats
 <br>
