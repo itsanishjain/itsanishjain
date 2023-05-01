@@ -14,8 +14,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itsanishjain&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsanishjain&theme=radical" />
 </p>
-
-![Anish's github stats](https://github-readme-stats.vercel.app/api?username=itsanishjain&count_private=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsanishjain&count_private=true)]
