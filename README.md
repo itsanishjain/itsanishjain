@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Ansih jain](https://i.ibb.co/SrcznGz/Happiness-Cultivate-Twitter-Header.png)
+![Ansih jain](https://image.whasupcrm.com/51c1094c-a684-4617-9c84-cc075d32e299/2026/06/04/039d2dcf-1309-4f3e-b247-368b97585d27-image.jpg)
 
 ## 📈 GitHub Stats
 <br>
