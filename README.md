@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Ansih jain](https://image.whasupcrm.com/51c1094c-a684-4617-9c84-cc075d32e299/2026/06/04/039d2dcf-1309-4f3e-b247-368b97585d27-image.jpg)
+![Ansih jain](https://image.whasupcrm.com/e4685fb7-91c1-46da-bbf5-c88862ef69ae/2026/07/01/8d2d3c54-71ea-42a8-9326-98a024057fe8-image.jpg)
 
 ## 📈 GitHub Stats
 <br>
